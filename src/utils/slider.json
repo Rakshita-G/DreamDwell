@@ -1,0 +1,62 @@
+[
+    {
+      "name": " Evershine Northeast Appartment ",
+      "price": "11,200/ sq.ft",
+      "location": " Gattahalli , Bangalore East ",
+      "image": "./r6.jpg"
+    
+
+    },
+    {
+      "name": "Adarsh appartment",
+      "price": "14,560/ sq.ft",
+      "location": " sarjapur Road, Bangalore East",
+      "image": "./r2.jpg"
+      
+    },
+    
+    
+    {
+      "name": "Radiant Rise",
+      "price": "11,200/ sq.ft",
+      "location": "Tumkur road,Bangalore East",
+      "image": "./r4.jpg"
+    },
+    {
+      "name": "infinity isles",
+      "price": "17,200/ sq.ft",
+      "location": "ndalahalli,Bangalore East",
+      "image": "./r55.jpg"
+    },
+    {
+      "name": "Citralan Puri Serang",
+      "price": "11,300/ sq.ft",
+      "location": "Bangalore East",
+      "image": "./r6.jpg"
+    },
+    {
+      "name": "Aliva Priva Jardin",
+      "price": "19,400/ sq.ft",
+      "location": "Bangalore North",
+      "image": "./r7.jpg"
+    },
+    {
+      "name": "Asatti Garden City",
+      "price": "18,200/ sq.ft",
+      "location": "Bangalore West",
+      "image": "./r4.jpg"
+    },
+   
+    {
+      "name": "Citralan Puri Serang",
+      "price": "17,200/ sq.ft",
+      "location": "Bangalore North",
+      "image": "./r6.jpg"
+    },
+    {
+      "name": "AMC",
+      "price": "19,400/ sq.ft",
+      "location": "Bangalore North",
+      "image": "./r7.jpg"
+    }
+  ]

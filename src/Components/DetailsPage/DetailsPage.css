@@ -1,0 +1,18 @@
+
+.details-wrapper {
+    padding: 20px;
+    text-align: center;
+    color: whitesmoke;
+    text-transform: uppercase;
+  }
+  
+  .details-price {
+    font-size: 2rem;
+    margin: 20px 0;
+  }
+   
+  .resimg {
+    width: 80%;
+    max-width: 500px;
+    margin: 20px auto;
+  } 

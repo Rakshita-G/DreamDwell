@@ -1,0 +1,10 @@
+.f-container{
+    justify-content: space-between;
+}
+
+.f-center{
+    gap: 1rem;
+    align-items: center;
+}
+
+
